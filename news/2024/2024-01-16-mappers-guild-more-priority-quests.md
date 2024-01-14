@@ -16,7 +16,7 @@ The Mappers' Guild is open to mappers of any skill level, including those withou
 
 ## What are priority quests?
 
-[Just a few months ago](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild), the Mappers' Guild introduced a new way to get involved: [**Priority quests**](https://mappersguild.com/missions). These are an alternative to ordinary [Mappers' Guild quests](https://mappersguild.com/quests) with a few key differences:
+[Just a few months ago](https://osu.ppy.sh/home/news/2023-08-29-changes-to-the-mappers-guild), the Mappers' Guild introduced a new way to get involved: [**priority quests**](https://mappersguild.com/missions). These are an alternative to ordinary [Mappers' Guild quests](https://mappersguild.com/quests) with a few key differences:
 
 - **Anyone can participate in priority quests.** Unlike normal quests, you don't need to claim priority quests in advance.
 - **Quests are tiered by difficulty:**
