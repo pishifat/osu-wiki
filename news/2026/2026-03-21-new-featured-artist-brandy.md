@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Brandy"
-date: 2026-03-21 18:30:00 +0000
+date: 2026-03-21 21:15:00 +0000
 series: featured_artists
 ---
 
