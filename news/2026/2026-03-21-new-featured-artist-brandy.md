@@ -79,9 +79,9 @@ Close out your circle clicking session with these two classics: [map 1](https://
 
 ---
 
-We sincerely apologize to [-kevincela-](https://osu.ppy.sh/users/266596)'s friends and family. This is what he wanted.
+We sincerely apologise to [-kevincela-](https://osu.ppy.sh/users/266596)'s friends and family. This is what he wanted.
 
-![this image](/wiki/shared/news/2026-03-21-new-featured-artist-brandy/boom.png)
+![Relevant comment by -kevincela-](/wiki/shared/news/2026-03-21-new-featured-artist-brandy/boom.png)
 
 Everyone else, feel free to visit [**Brandy**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/534) and start mapping already!
 
