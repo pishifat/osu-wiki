@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Featured Artist Track Updates: ptar124"
-date: 2026-04-11 18:00:00 +0000
+date: 2026-04-11 19:00:00 +0000
 series: featured_artists
 ---
 
@@ -15,7 +15,7 @@ New songs are added to osu!'s Featured Artist library each week. That's awesome 
 
 In total, there are **16 new/updated tracks** on [**ptar124**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/409), each available in full pre-timed `.osz` glory. 
 
-See some of **ptar124**'s newly added [osu!originals](/wiki/Community/Bespoke_music) in action below, then use them as inspiration for your own maps!
+See some of **ptar124**'s newly added [osu! originals](/wiki/Community/Bespoke_music) in action below, then use them as inspiration for your own maps!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
