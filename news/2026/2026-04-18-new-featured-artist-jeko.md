@@ -7,7 +7,7 @@ series: featured_artists
 
 An Australian origin isn't the only thing osu! and our newest Featured Artist have in common.
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/538/header.jpg)
 
 **jeko** (known around here as [J3C](https://osu.ppy.sh/users/15956540)) has been clicking circles for the better half of a decade, where they've been hearing the rhythm game-y sounds of renowned producers like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), *celtix* and *ReeK*. 
 
@@ -36,25 +36,25 @@ While **jeko** is a circle clicker, their music's introduction to the wider osu!
 A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494074). Thank [Roupus](https://osu.ppy.sh/beatmapsets/2494074) for delivering.
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20persistence.mp3">
 </audio>
 
 ### jeko - Magnitude
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20Magnitude.mp3">
 </audio>
 
-### jeko - Iridescence
+### jeko - Etheria
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20Etheria.mp3">
 </audio>
 
 ### jeko - ULTRACRITICAL \[PROVE YOURSELF\]
 
 <audio controls>
-    <source src="LINK">
+    <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20ULTRACRITICAL%20%5BPROVE%20YOURSELF%5D.mp3">
 </audio>
 
 ---
