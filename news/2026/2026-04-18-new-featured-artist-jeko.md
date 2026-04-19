@@ -27,13 +27,13 @@ While **jeko** is a circle clicker, their music's introduction to the wider osu!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
-        <source src="https://assets.ppy.sh/artists/xxx/release_showcase.mp4" type="video/mp4" preload="none">
+        <source src="https://assets.ppy.sh/media/news/jeko_release_showcase.mp4" type="video/mp4" preload="none">
     </video>
 </div>
 
 ### jeko - persistence
 
-A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494074). Thank [Roupus](https://osu.ppy.sh/beatmapsets/2494074) for delivering.
+A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494074). Thank [Roupus](https://osu.ppy.sh/users/11117670) and [virtuoso](https://osu.ppy.sh/users/7540631) for delivering.
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/538/Songs/jeko%20-%20persistence.mp3">
