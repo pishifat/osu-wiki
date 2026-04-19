@@ -61,7 +61,7 @@ A technical song calls for [a technical map](https://osu.ppy.sh/beatmapsets/2494
 
 The 5 songs above are just a taste of what's on [**jeko**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/538). You shouldn't need any convincing by this point.
 
-Entertain this idea for a second. You're a mapper and you're looking for interesting music to map. What's do you do? Do you make a Nightcore version of a song that you somehow associate with the color pink? Maybe, but here's an alternative: wait until next weekend for a new Featured Artist!
+Entertain this idea for a second. You're a mapper and you're looking for interesting music to map. What do you do? Do you make a Nightcore version of a song that you somehow associate with the colour pink? Maybe, but here's an alternative: wait until next weekend for a new Featured Artist!
 
 Stay tuned.
 
