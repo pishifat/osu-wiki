@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: jeko"
-date: 2026-04-18 19:00:00 +0000
+date: 2026-04-19 20:00:00 +0000
 series: featured_artists
 ---
 
@@ -9,7 +9,7 @@ An Australian origin isn't the only thing osu! and our newest Featured Artist ha
 
 ![](https://assets.ppy.sh/artists/538/header.jpg)
 
-**jeko** (known around here as [J3C](https://osu.ppy.sh/users/15956540)) has been clicking circles for the better half of a decade, where they've been hearing the rhythm game-y sounds of renowned producers like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), *celtix* and *ReeK*. 
+**jeko** (known around here as [J3C](https://osu.ppy.sh/users/15956540)) has been clicking circles for the better half of a decade, where they've been hearing the rhythm game-y sounds of renowned producers like [*Camellia*](https://osu.ppy.sh/beatmaps/artists/31), *celtix* and *ReeK*.
 
 Consistent exposure is bound to have an effect. In the words of **jeko**...
 
