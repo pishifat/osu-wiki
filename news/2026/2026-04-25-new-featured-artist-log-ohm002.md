@@ -11,8 +11,9 @@ series: featured_artists
 
 Since the beginning, osu! has been about creating beatmaps. Mappers choose music that they love and transform it into something new through hit objects. Long before taking on the moniker **log()**, this Thai producer was known as [ohm002](https://osu.ppy.sh/users/4468239), a renowned mapper for the better half of a decade who's still pouring their heart and soul into the editor!
 
+That's only the tip of the iceberg for **log()** though. While they've been active in the osu! scene, they've also learned how to produce music as technical as their beatmaps, leading to one of their songs being featured in the game *vivid/stasis* and the creation of their own rhythm game *NEODITRONIX*!
 
-That's only the tip of the iceberg for **log()** though. While they've been active in the osu! scene, they've also learned how to produce music as technical as their beatmaps, and they've even crafted their own rhythm game *NEODITRONIX*! Specialising in hardcore music inspired by [*Laur*](https://osu.ppy.sh/beatmaps/artists/527), [*USAO*](https://osu.ppy.sh/beatmaps/artists/248), and [*rN*](https://osu.ppy.sh/beatmaps/artists/190) and happy tunes inspired by [*Synthion*](https://osu.ppy.sh/beatmaps/artists/357), [*Chroma*](https://osu.ppy.sh/beatmaps/artists/215), and *D-D-Dice*, **log()** has developed their own style invoking ambient soundscapes contrasted with tight drums and synths.
+Specialising in hardcore music inspired by [*Laur*](https://osu.ppy.sh/beatmaps/artists/527), [*USAO*](https://osu.ppy.sh/beatmaps/artists/248), and [*rN*](https://osu.ppy.sh/beatmaps/artists/190) and happy tunes inspired by [*Synthion*](https://osu.ppy.sh/beatmaps/artists/357), [*Chroma*](https://osu.ppy.sh/beatmaps/artists/215), and *D-D-Dice*, **log()** has developed their own style invoking ambient soundscapes contrasted with tight drums and synths.
 
 In simpler terms, **log()** makes awesome rhythm game music. That's why they've joined our Featured Artists!
 
