@@ -63,7 +63,6 @@ The osu!taiko World Cup 2026 is run by the [osu! team](/wiki/People/osu!_team) a
 - [Tournament listing](https://osu.ppy.sh/community/tournaments/54)
 - [Challonge bracket](https://challonge.com/TWC2026)
 - [Pick'ems page](https://pickem.hwc.hr/tournaments/192) hosted by ::{ flag=DE }:: [hallowatcher](https://osu.ppy.sh/users/1874761)
-- [Support your country with a profile banner](https://osu.ppy.sh/store/products/1664)
 
 ## Participants
 
@@ -121,23 +120,26 @@ The complete sign-up list can be found [here](https://gist.github.com/LeoFLT/6b3
 
 ## Match schedule: Grand Finals
 
-### Saturday, 25 April 2026
-
-| ID | Team A | Team B | Match time | Twitch stream |  |
-| :-: | --: | :-- | :-- | :-: | :-: |
-| 45 | Chile ::{ flag=CL }:: | ::{ flag=KR }:: South Korea | [Apr 25 (Sat) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260425T020000&p1=1440&p2=232&p3=235) | [osulive](https://twitch.tv/osulive) | [^lb-grand-finals] |
-| SM | Grand Finals | showmatch | *TBD* | [osulive](https://twitch.tv/osulive) | [^showmatch] |
-
 ### Sunday, 26 April 2026
 
 | ID | Team A | Team B | Match time | Twitch stream |  |
 | :-: | --: | :-- | :-- | :-: | :-: |
-| 46a | Japan ::{ flag=JP }:: | ::{ flag=CL }:: Chile | [Apr 26 (Sun) 02:00 UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20260426T020000&p1=1440&p2=248&p3=232) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 | 46b | Japan ::{ flag=JP }:: | ::{ flag=KR }:: South Korea | [Apr 26 (Sun) 10:00 UTC](https://wwwtimeanddate.com/worldclock/converter.html?iso=20260426T100000&p1=1440&p2=248&p3=235) | [osulive](https://twitch.tv/osulive) | [^grand-finals] |
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 25 April 2026:
+
+| ID | Team A |  |  | Team B | Match link | VOD link |
+| :-: | --: | :-: | :-: | :-- | :-- | :-- |
+| SM | **Team kddk** | **6** | 5 | Team bongo | [#1](https://osu.ppy.sh/community/matches/121010479) | [#1](https://www.twitch.tv/videos/2756724314) |
+| 45 | Chile ::{ flag=CL }:: | 6 | **7** | ::{ flag=KR }:: **South Korea** | [#1](https://osu.ppy.sh/community/matches/121010905) | [#1](https://www.twitch.tv/videos/2756777848) |
+
 ### Finals
+
+Detailed statistics for this round can be found [here](https://docs.google.com/spreadsheets/d/1aC38wGYXcqKhDjm_ZLKPcIVIpq89R-H722CyK9tAXcU?rm=minimal).
 
 Saturday, 18 April 2026:
 
@@ -395,13 +397,14 @@ Group H:
 
 ### Grand Finals
 
+**[Download the mappack here (126 MB)](https://packs.ppy.sh/P321%20-%20osu%21taiko%20World%20Cup%202026%3A%20Grand%20Finals.zip)**\
 [Watch the showcase VOD here](https://www.twitch.tv/videos/2752041926)
 
 - No Mod
   1. [Frums - Mdrqnxtagon (\_yu68) \[Oni\]](https://osu.ppy.sh/beatmapsets/2541443#taiko/5627063)
   2. [Ennnn - Silver Bullet (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/2541444#taiko/5627069)
   3. [DJ Raisei - Tenshi No Mau Tokoro feat. Hatsune Miku (N a N a) \[Isitoria Celeste\]](https://osu.ppy.sh/beatmapsets/2541446#taiko/5627071)
-  4. doro - f43v3qqqqqqqq52c4f4c425 (X a v y) \[q\] (link pending)
+  4. [doro - f43v3qqqqqqqq52c4f4c425 (X a v y) \[q\]](https://osu.ppy.sh/beatmapsets/2541555#taiko/5627367)
   5. [Rings of Saturn - Divine Authority (Xay) \[Anders\]](https://osu.ppy.sh/beatmapsets/2541455#taiko/5627099)
   6. [NAKED AUTOMATA - If we don't talk again, remember I loved you (Paraxia) \[adieu, toi que j'aime\]](https://osu.ppy.sh/beatmapsets/2541453#taiko/5627097)
 - Hidden
@@ -418,7 +421,7 @@ Group H:
   2. [Tenno Otsuge - REMEMBER MAZE w/DJ Raisei (Backfire) \[And\]](https://osu.ppy.sh/beatmapsets/2541476#taiko/5627150)
   3. [X2lowline - dimension2k (cut ver.) (hz404) \[2048 dimensions\]](https://osu.ppy.sh/beatmapsets/2541426#taiko/5626997)
 - Tiebreaker
-  1. **[Camellia - THULE feat. Camellia (Zetera) \[Finis Mundi\]](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)**
+  1. **[Camellia feat. Camellia - Thule (Zetera) \[Finis Mundi\]](https://osu.ppy.sh/beatmapsets/2541488#taiko/5627199)**
 
 ### Finals
 
@@ -803,6 +806,4 @@ The final bracket configuration will be as follows:
 
 [^qualifiers-seeding]: Used as the main seeding method
 [^qualifiers-tiebreaker]: Used as a tiebreaker when two teams have the same rank sum.
-[^showmatch]: Grand Finals showmatch
-[^lb-grand-finals]: Losers bracket Grand Finals match
-[^grand-finals]: Grand Finals match — final matchup depends on the results of the preceding losers bracket Grand Finals match
+[^grand-finals]: Grand Finals match
