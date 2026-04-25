@@ -45,6 +45,8 @@ If you're looking for a less ohm002-centric experience, [this map](https://osu.p
     <source src="https://assets.ppy.sh/artists/540/Songs/777system%20-%20Introducing%20%20777system.mp3">
 </audio>
 
+<!-- lint ignore no-heading-punctuation -->
+
 ### log() - Please remember, you must die.
 
 <audio controls>
