@@ -7,7 +7,7 @@ series: featured_artists
 
 `osu.featuredArtists.push("log()");`
 
-![](https://assets.ppy.sh/artists/xxx/header.jpg)
+![](https://assets.ppy.sh/artists/540/header.jpg)
 
 Since the beginning, osu! has been about creating beatmaps. Mappers choose music that they love and transform it into something new through hit objects. Long before taking on the moniker **log()** (and more recently *777system*), this Thai producer was known as [ohm002](https://osu.ppy.sh/users/4468239), a renowned mapper for the better half of a decade who's still pouring their heart and soul into the editor!
 
@@ -17,7 +17,7 @@ Specialising in hardcore music inspired by [*Laur*](https://osu.ppy.sh/beatmaps/
 
 In simpler terms, **log()** makes awesome rhythm game music. That's why they've joined our Featured Artists!
 
-[**log() / ohm002**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/540) is officially home to **x** tracks, all of which are pre-timed for your future mapping endeavours. That future begins right after you finish reading this article, so getting your mapping muscles prepped.
+[**log() / ohm002**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/540) is officially home to **22** tracks, all of which are pre-timed for your future mapping endeavours. That future begins right after you finish reading this article, so getting your mapping muscles prepped.
 
 ### ohm002 - ohm002 (ohm002 remix)
 
