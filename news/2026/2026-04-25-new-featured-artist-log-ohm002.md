@@ -21,7 +21,7 @@ In simpler terms, **log()** makes awesome rhythm game music. That's why they've 
 
 ### ohm002 - ohm002 (ohm002 remix)
 
-"ohm002" is where this artist began on osu!, so it's only fitting that their sound is showcased through [their own map](https://osu.ppy.sh/beatmapsets/2304560) of this song!
+The name "ohm002" is the source of everything here, so it's only fitting that their sound is showcased through [their own map](https://osu.ppy.sh/beatmapsets/2304560) of this song!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
