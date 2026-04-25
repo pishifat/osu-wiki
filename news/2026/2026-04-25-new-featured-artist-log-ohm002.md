@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: log() / ohm002"
-date: 2026-04-25 20:00:00 +0000
+date: 2026-04-25 22:00:00 +0000
 series: featured_artists
 ---
 
