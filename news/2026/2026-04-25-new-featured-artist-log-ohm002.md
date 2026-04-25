@@ -59,7 +59,7 @@ If you're looking for a less ohm002-centric experience, [this map](https://osu.p
 
 ---
 
-You've endured long enough. The only reading you should be considering at this point involves circles and sliders in the editor placed in accordance to a templates from [**log() / ohm002**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/540).
+You've endured long enough. The only reading you should be considering at this point involves circles and sliders in the editor placed in accordance to a template from [**log() / ohm002**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/540).
 
 That's all for this week, but you can rest assured knowing that next week's Featured Artist is only 7 days away. Stay tuned!
 
