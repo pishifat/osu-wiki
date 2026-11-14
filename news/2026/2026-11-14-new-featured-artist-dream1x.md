@@ -19,7 +19,7 @@ Enough words. Go to [**dream1x**'s Featured Artist listing](https://osu.ppy.sh/b
 
 ### dream1x - sacrifices
 
-Try out [the map that could lead a future osu! player to produce breakcore music](https://osu.ppy.sh/beatmapsets/2622196) hosted by [324c](https://osu.ppy.sh/users/2054596)!
+Try out [the map that could lead a future osu! player to produce breakcore music](https://osu.ppy.sh/beatmapsets/2622196) hosted by [Kojio](https://osu.ppy.sh/users/2054596)!
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
